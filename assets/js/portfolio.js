@@ -1,10 +1,10 @@
 
 const proyects = [
     {   
-        title: 'Primero',
-        type: 'app',
+        title: 'Banco Capital',
+        type: 'web',
         url: 'https://germanpagano.github.io/BancoCapital/',
-        img: '../../assets/img/portfolio/portfolio-3.jpg'
+        img: '../../assets/img/portfolio/banco-capital.jpg'
     },
     {   
         title: 'Segunda',
@@ -18,6 +18,12 @@ const proyects = [
       url: 'https://github.com/GermanPagano/Dodi/blob/main/scripts/app.js',
       img: '../../assets/img/portfolio/portfolio-8.jpg'
   },
+  {   
+    title: 'Segunda',
+    type: 'web',
+    url: 'https://github.com/GermanPagano/Dodi/blob/main/scripts/app.js',
+    img: '../../assets/img/portfolio/portfolio-9.jpg'
+},
   ]
   
   const container = document.querySelector('.portfolio-container')
