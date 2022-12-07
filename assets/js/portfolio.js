@@ -1,22 +1,22 @@
 
 const proyects = [
     {   
-        title: 'Banco Capital',
+        title: 'Bank Capital',
         type: 'web',
         url: 'https://germanpagano.github.io/BancoCapital/',
         img: '../../assets/img/portfolio/banco-capital.jpg'
     },
     {   
-        title: 'Cotizador de prestamos',
+        title: 'Bank loan appraiser',
         type: 'app',
         url: 'https://germanpagano.github.io/BancoCapital/services.html',
         img: '../../assets/img/portfolio/cotizador-prestamos.jpg'
     },
     {   
-      title: 'Segunda',
-      type: 'app',
-      url: 'https://github.com/GermanPagano/Dodi/blob/main/scripts/app.js',
-      img: '../../assets/img/portfolio/portfolio-8.jpg'
+      title: 'Landing fashion store',
+      type: 'web',
+      url: 'https://germanpagano.github.io/MarraketchUTN/',
+      img: '../../assets/img/portfolio/marraketch.jpg'
   },
   {   
     title: 'Segunda',
