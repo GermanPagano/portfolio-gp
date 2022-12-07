@@ -16,7 +16,7 @@ const proyects = [
       title: 'Landing fashion store',
       type: 'web',
       url: 'https://germanpagano.github.io/MarraketchUTN/',
-      img: '../../assets/img/portfolio/Proyecto nuevo.jpg'
+      img: '../../assets/img/portfolio/marraketch.jpg'
   },
   {   
     title: 'Segunda',
