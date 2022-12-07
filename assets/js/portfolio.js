@@ -7,10 +7,10 @@ const proyects = [
         img: '../../assets/img/portfolio/banco-capital.jpg'
     },
     {   
-        title: 'Segunda',
-        type: 'web',
-        url: 'https://github.com/GermanPagano/Dodi/blob/main/scripts/app.js',
-        img: '../../assets/img/portfolio/portfolio-4.jpg'
+        title: 'Cotizador de prestamos',
+        type: 'app',
+        url: 'https://germanpagano.github.io/BancoCapital/services.html',
+        img: '../../assets/img/portfolio/cotizador-prestamos.jpg'
     },
     {   
       title: 'Segunda',
