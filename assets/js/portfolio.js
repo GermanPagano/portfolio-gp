@@ -24,6 +24,12 @@ const proyects = [
     url: 'https://germanpagano.github.io/Toodo-list-React/',
     img: '../../assets/img/portfolio/todo-task.jpg'
 },
+  {   
+    title: 'Calculator in React',
+    type: 'app',
+    url: 'https://germanpagano.github.io/Calculator-in-React-freecodecamp/',
+    img: '../../assets/img/portfolio/calculator-react.jpg'
+},
   ]
   
   const container = document.querySelector('.portfolio-container')
