@@ -33,7 +33,7 @@ const proyects = [
   {   
     title: 'Click Counter in React',
     type: 'app',
-    url: 'https://germanpagano.github.io/Calculator-in-React-freecodecamp/',
+    url: 'https://germanpagano.github.io/React-Clicks-Counter/',
     img: '../../assets/img/portfolio/click-counter.jpg'
 },
   ]
