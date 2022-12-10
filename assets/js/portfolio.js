@@ -36,6 +36,12 @@ const proyects = [
     url: 'https://germanpagano.github.io/React-Clicks-Counter/',
     img: '../../assets/img/portfolio/click-counter.jpg'
 },
+  {   
+    title: 'Form web in react',
+    type: 'web',
+    url: 'https://germanpagano.github.io/Form-react-app/',
+    img: '../../assets/img/portfolio/form-react.jpg'
+},
   ]
   
   const container = document.querySelector('.portfolio-container')
