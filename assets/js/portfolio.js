@@ -3,13 +3,13 @@ const proyects = [
     {   
         title: 'Bank Capital',
         type: 'web',
-        url: 'https://germanpagano.github.io/BancoCapital/',
+        url: 'https://germanpagano.github.io/Banco-Capital/',
         img: '../../assets/img/portfolio/banco-capital.jpg'
     },
     {   
         title: 'Bank loan appraiser',
         type: 'app',
-        url: 'https://germanpagano.github.io/BancoCapital/services.html',
+        url: 'https://germanpagano.github.io/Banco-Capital/services.html',
         img: '../../assets/img/portfolio/cotizador-prestamos.jpg'
     },
     {   
