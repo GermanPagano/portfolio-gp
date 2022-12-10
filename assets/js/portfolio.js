@@ -19,10 +19,10 @@ const proyects = [
       img: '../../assets/img/portfolio/marraketch.jpg'
   },
   {   
-    title: 'Segunda',
-    type: 'web',
-    url: 'https://github.com/GermanPagano/Dodi/blob/main/scripts/app.js',
-    img: '../../assets/img/portfolio/portfolio-9.jpg'
+    title: 'To do Task!',
+    type: 'app',
+    url: 'https://germanpagano.github.io/Toodo-list-React/',
+    img: '../../assets/img/portfolio/todo-task.jpg'
 },
   ]
   
