@@ -30,6 +30,12 @@ const proyects = [
     url: 'https://germanpagano.github.io/Calculator-in-React-freecodecamp/',
     img: '../../assets/img/portfolio/calculator-react.jpg'
 },
+  {   
+    title: 'Click Counter in React',
+    type: 'app',
+    url: 'https://germanpagano.github.io/Calculator-in-React-freecodecamp/',
+    img: '../../assets/img/portfolio/click-counter.jpg'
+},
   ]
   
   const container = document.querySelector('.portfolio-container')
