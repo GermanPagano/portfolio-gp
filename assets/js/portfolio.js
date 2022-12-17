@@ -42,6 +42,12 @@ const proyects = [
     url: 'https://germanpagano.github.io/Form-react-app/',
     img: '../../assets/img/portfolio/form-react.jpg'
 },
+      {   
+    title: 'Weather App React @Climax',
+    type: 'app',
+    url: 'https://germanpagano.github.io/Climax-Weather-app-react/',
+    img: '../../assets/img/portfolio/weather-app-react.jpg'
+},
   ]
   
   const container = document.querySelector('.portfolio-container')
