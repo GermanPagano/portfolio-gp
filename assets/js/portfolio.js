@@ -53,7 +53,7 @@ const proyects = [
 title: 'Ecommerce React @GamingStore',
 type: 'web',
 url: 'https://react-coderhouse-ecommerce.vercel.app/',
-img: '../../assets/img/portfolio/React-Ecommerce.jpg'
+img: '../../assets/img/portfolio/Ecommerce-react.jpg'
 },
   ]
   
@@ -81,3 +81,4 @@ img: '../../assets/img/portfolio/React-Ecommerce.jpg'
       })
   }
   print()
+  
