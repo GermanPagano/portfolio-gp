@@ -1,6 +1,5 @@
 
 
-
 const proyects = [
     {   
         title: 'Bank Capital',
@@ -54,7 +53,7 @@ const proyects = [
 title: 'Ecommerce React @GamingStore',
 type: 'web',
 url: 'https://react-coderhouse-ecommerce.vercel.app/',
-img: '../../assets/img/portfolio/ecomerce.jpg'
+img: '../../assets/img/portfolio/React-Ecommerce.jpg'
 },
   ]
   
@@ -82,4 +81,3 @@ img: '../../assets/img/portfolio/ecomerce.jpg'
       })
   }
   print()
-  
