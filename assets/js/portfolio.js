@@ -47,6 +47,12 @@ const proyects = [
     type: 'app',
     url: 'https://germanpagano.github.io/Climax-Weather-app-react/',
     img: '../../assets/img/portfolio/weather-app-react.jpg'
+},,
+{   
+title: '@GamingStore React Ecommerce ',
+type: 'web',
+url: 'https://react-coderhouse-ecommerce.vercel.app/',
+img: '../../assets/img/portfolio/weather-app-react.jpg'
 },
   ]
   
@@ -74,4 +80,5 @@ const proyects = [
       })
   }
   print()
+  
   
