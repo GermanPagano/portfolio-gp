@@ -55,6 +55,13 @@ type: 'web',
 url: 'https://react-coderhouse-ecommerce.vercel.app/',
 img: '../../assets/img/portfolio/Ecommerce-react.jpg'
 },
+    
+{   
+title: 'Feed - Tw Clone ',
+type: 'app',
+url: 'hhttps://feed-social-network-react.vercel.app/',
+img: '../../assets/img/portfolio/Ecommerce-react.jpg'
+},
   ]
   
   const container = document.querySelector('.portfolio-container')
