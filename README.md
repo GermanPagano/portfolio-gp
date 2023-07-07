@@ -1,7 +1,8 @@
 <h1 align="center"> PORTFOLIO PERSONAL </h1> <br>
 <p align="center">
-![gp-logo](https://github.com/GermanPagano/portfolio-gp/assets/80891761/1f1656fa-0adb-469f-a18d-ec32d14361f2)
-
+  <a href="https://gitpoint.co/">
+    <img alt="GitPoint" title="GitPoint" src="https://github.com/GermanPagano/portfolio-gp/assets/80891761/1f1656fa-0adb-469f-a18d-ec32d14361f2" width="450">
+  </a>
 </p>
 
 <p align="center">
