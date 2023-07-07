@@ -1,8 +1,7 @@
 <h1 align="center"> PORTFOLIO PERSONAL </h1> <br>
 <p align="center">
-  <a href="[https://gitpoint.co/](https://german-pagano-portfolio.netlify.app/index.html)">
-    <img alt="gp" title="gp" src="https://st3.depositphotos.com/30226412/34138/v/600/depositphotos_341386496-stock-illustration-initial-letter-gp-or-pg.jpg" width="450">
-  </a>
+![gp-logo](https://github.com/GermanPagano/portfolio-gp/assets/80891761/1f1656fa-0adb-469f-a18d-ec32d14361f2)
+
 </p>
 
 <p align="center">
