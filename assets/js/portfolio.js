@@ -60,7 +60,7 @@ img: '../../assets/img/portfolio/Ecommerce-react.jpg'
 title: 'Feed - Tw Clone ',
 type: 'app',
 url: 'hhttps://feed-social-network-react.vercel.app/',
-img: '../../assets/img/portfolio/Ecommerce-react.jpg'
+img: '../../assets/img/portfolio/feed.jpg'
 },
   ]
   
