@@ -1,9 +1,9 @@
-<h1 align="center"> PORTFOLIO PERSONAL </h1> <br>
+<h1 align="center"> Portfolio Personal </h1> <br>
 <p align="center">
-  <a href="https://gitpoint.co/">
-    <img alt="GitPoint" title="GitPoint" src="https://github.com/GermanPagano/portfolio-gp/assets/80891761/1f1656fa-0adb-469f-a18d-ec32d14361f2" width="450">
+  <a href="https://german-pagano-portfolio.netlify.app/index.html">
+    <img alt="GPagano" title="GPagano" src="https://github.com/GermanPagano/portfolio-gp/assets/80891761/1f1656fa-0adb-469f-a18d-ec32d14361f2" width="450">
   </a>
-</p>
+</p>>
 
 <p align="center">
   GitHub in your pocket. Built with React Native.
