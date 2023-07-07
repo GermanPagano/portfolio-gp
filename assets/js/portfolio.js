@@ -62,6 +62,13 @@ type: 'app',
 url: 'hhttps://feed-social-network-react.vercel.app/',
 img: '../../assets/img/portfolio/feed.jpg'
 },
+       
+{   
+title: 'Touch and Go - Tinder Clone ',
+type: 'app',
+url: 'https://touch-and-go.vercel.app/',
+img: '../../assets/img/portfolio/tag.jpg'
+},
   ]
   
   const container = document.querySelector('.portfolio-container')
