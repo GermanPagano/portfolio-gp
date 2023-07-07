@@ -1,13 +1,13 @@
 <h1 align="center"> Portfolio Personal </h1> <br>
 <p align="center">
   <a href="https://german-pagano-portfolio.netlify.app/index.html">
-    <img alt="GPagano" title="GPagano" src="https://github.com/GermanPagano/portfolio-gp/assets/80891761/1f1656fa-0adb-469f-a18d-ec32d14361f2" width="450">
+    <img alt="GPagano" title="GermanPagano" src="https://github.com/GermanPagano/portfolio-gp/assets/80891761/1f1656fa-0adb-469f-a18d-ec32d14361f2" width="450">
   </a>
 </p>>
 
 <p align="center">
-  GitHub in your pocket. Built with React Native.
-</p>
+  Hi this is my portfolio 👋
+</p> 
 
 <p align="center">
   <a href="https://itunes.apple.com/us/app/gitpoint/id1251245162?mt=8">
