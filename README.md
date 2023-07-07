@@ -1,7 +1,7 @@
 <h1 align="center"> PORTFOLIO PERSONAL </h1> <br>
 <p align="center">
   <a href="[https://gitpoint.co/](https://german-pagano-portfolio.netlify.app/index.html)">
-    <img alt="GitPoint" title="GitPoint" src="http://i.imgur.com/VShxJHs.png" width="450">
+    <img alt="GitPoint" title="GitPoint" src="https://c8.alamy.com/compes/2br9r5c/elementos-de-plantilla-de-diseno-de-iconos-con-el-logotipo-de-la-carta-gp-2br9r5c.jpg" width="450">
   </a>
 </p>
 
